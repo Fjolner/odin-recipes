@@ -1,1 +1,2 @@
-# odin-recipes
+In this lesson im testing out website creation in the form of a recipe page. Im going to be using pictures and links.
+The thing im the least experienced in is how git and github works, so hoping to learn more about this during this project.
